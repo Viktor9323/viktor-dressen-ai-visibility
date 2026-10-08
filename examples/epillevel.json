@@ -1,0 +1,12 @@
+{
+  "name": "EpilLevel",
+  "city": "Одинцово",
+  "factors": {
+    "rating": 1.0, "reviews_volume": 0.8, "reviews_specificity": 0.4,
+    "owner_replies": 0.6, "price_completeness": 1.0, "price_facts": 0.1,
+    "description": 0.3, "features": 0.9, "categories": 0.6, "posts": 0.3,
+    "trust": 1.0, "photos": 1.0, "website": 0.0, "website_content": 0.0,
+    "schema": 0.0, "web_findable": 0.0, "citations": 0.2, "nap": 0.5,
+    "social_text": 0.4, "query_coverage": 0.35
+  }
+}
